@@ -1,4 +1,4 @@
-## Hi, I'm Moritz 👋
+## Hi, I'm Moritz
 
 I'm a 21-year-old Computer Science student interested in web applications and cybersecurity :)
 
