@@ -4,7 +4,7 @@ I'm a 21-year-old Computer Science student at Leipzig University interested in w
 
 ### 🔐 Security Research
 
-- [OpenSSH 10.6 Security Fix](https://www.openssh.com/txt/release-10.6) — GSSAPI cross-authentication credential/state confusion in `sshd`; 
+- [OpenSSH 10.6 Security Fix](https://www.openssh.com/txt/release-10.6) — cross-authentication GSSAPI state confusion leading to account impersonation and delegated-credential exposure
 - [CVE-2026-87853](https://nvd.nist.gov/vuln/detail/CVE-2026-87853) — SSSD cross-account authentication
 - [CVE-2026-93999](https://nvd.nist.gov/vuln/detail/CVE-2026-93999) — Keycloak Disabled authorization survives token refresh
 - [CVE-2026-78330](https://nvd.nist.gov/vuln/detail/CVE-2026-78330) — Apache Syncope privilege escalation via JWT authentication
