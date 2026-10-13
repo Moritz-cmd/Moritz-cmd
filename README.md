@@ -13,4 +13,6 @@ I'm a 21-year-old Computer Science student at Leipzig University interested in w
 - [CVE-2026-78336](https://nvd.nist.gov/vuln/detail/CVE-2026-78336) - Apache Syncope OIDC client secret disclosure
 - [SAP Security Researcher Acknowledgment](https://support.sap.com/en/my-support/knowledge-base/security-notes-news/credits-for-security-researchers.html) — September 2026, October 2026
 
+And apparently, my C code was acceptable at least once — my patch for CVE-2026-106553 made it into OpenSSH upstream (commit 6f9cd19).
+
 - LinkedIn: [Moritz Theile](https://www.linkedin.com/in/moritz-theile-ab0607316)
