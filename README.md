@@ -16,3 +16,4 @@ I'm a 21-year-old Computer Science student at Leipzig University interested in w
 And apparently, my C code was acceptable at least once - my patch for CVE-2026-106553 made it into OpenSSH upstream ([commit 6f9cd19](https://github.com/openssh/openssh-portable/commit/6f9cd19af05aa828d7778cfb047faaed1679e8b7)).
 
 - LinkedIn: [Moritz Theile](https://www.linkedin.com/in/moritz-theile-ab0607316)
+- Mail: security@theile.xyz
