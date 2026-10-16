@@ -2,7 +2,7 @@
 
 I'm a 21-year-old Computer Science student at Leipzig University interested in web applications and cybersecurity :)
 
-### 🔐 Security Research
+### Security Research
 
 - [CVE-2026-106555](https://nvd.nist.gov/vuln/detail/CVE-2026-106555) - OpenSSH GSSAPI cross-authentication state confusion
 - [CVE-2026-106553](https://nvd.nist.gov/vuln/detail/CVE-2026-106553) - OpenSSH GSSAPI credential persistence after failed authentication
