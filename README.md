@@ -11,6 +11,8 @@ I'm a 21-year-old Computer Science student at Leipzig University interested in w
 - [CVE-2026-93999](https://nvd.nist.gov/vuln/detail/CVE-2026-93999) - Keycloak Disabled authorization survives token refresh
 - [CVE-2026-78330](https://nvd.nist.gov/vuln/detail/CVE-2026-78330) - Apache Syncope privilege escalation via JWT authentication
 - [CVE-2026-78336](https://nvd.nist.gov/vuln/detail/CVE-2026-78336) - Apache Syncope OIDC client secret disclosure
+- [CVE-2026-106012](https://nvd.nist.gov/vuln/detail/CVE-2026-106012) - Apache Tomcat incorrect authorization via RequestDispatcher.forward()
+- [CVE-2026-116561](https://nvd.nist.gov/vuln/detail/CVE-2026-116561) - Apache Tomcat Jakarta Authentication secureResponse() error handling
 - [SAP Security Researcher Acknowledgment](https://support.sap.com/en/my-support/knowledge-base/security-notes-news/credits-for-security-researchers.html) - September 2026, October 2026
 - [Microsoft Security Researcher Acknowledgment](https://msrc.microsoft.com/special-mention) - 2026
 - [MIT Kerberos Security Researcher Acknowledgment](https://web.mit.edu/kerberos/advisories/MITKRB5-SA-2026-001.txt) - 2026
